@@ -5,6 +5,9 @@
 - 📫 reach me https://www.linkedin.com/in/swaroop-k-g-82975025b/
 -  https://leetcode.com/u/swaroopkg56/
 -  Languages and Tools: FRONTEND DEVELOPER | JAVA |DSA | HTML | CSS | JAVASCRIPT | MERN STACK |NODE JS | EXPRESS JS | MONGO DB | REACT JS | TAILWIND CSS | PHP 
+🎓 Education
+Bachelor of Engineering in Computer Science and Engineering
+College: MVJ College of Engineering, Bengaluru
 
 
 
