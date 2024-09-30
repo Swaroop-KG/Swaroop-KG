@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-kg&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-kg" /> </p>
 
+- 🔭 I’m currently working on **FULL STACK PROJECTS and MERN STACK**
+
 - 🌱 I’m currently learning **MERNSTACK**
 
 - 📫 How to reach me **swaroopkg56@gmail.com**
@@ -10,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/swaroop-k-g-82975025b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swaroop-k-g-82975025b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/swa_roop_k.g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/swa_roop_k.g/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swaroopkg56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swaroopkg56" height="30" width="40" /></a>
+<a href="https://instagram.com/swa_roop_k.ghttps://www.instagram.com/swa_roop_k.g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swa_roop_k.ghttps://www.instagram.com/swa_roop_k.g/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
