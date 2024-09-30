@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swaroop-KG
+###👋 Hi, I’m @Swaroop-KG
 - 👀 I’m interested in  projects, and journey in web development, focusing on technologies like the MERN stack
 - 🌱 I’m currently learning  mern stack and deeplearning
 
