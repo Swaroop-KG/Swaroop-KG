@@ -8,6 +8,27 @@
 - 🌱 I’m currently learning **MERNSTACK**
 
 - 📫 How to reach me **swaroopkg56@gmail.com**
+- ## 💼 Experience
+
+**Full Stack Developer Intern** – *Elfinity Technologies* (Feb 2025 – Present)  
+- Working as a web development intern, building projects with modern frameworks and technologies. 
+- Developing responsive and user-friendly interfaces to enhance user experience and accessibility. 
+- Collaborating with designers and backend developers to implement seamless UI/UX features. 
+- Technologies: HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS, REST APIs.
+
+**Tech Team Member** – *Software Development Club* (Sep 2024 – Jun 2025)  
+- Collaborated with peers to develop dynamic websites for various college events  
+- Guided and supported 300+ students through 3+ technical workshops and mentoring sessions
+
+---
+
+## 🏆 Achievements & Hackathons
+
+  🥇 **1st Place** – Web Development Hackathon among 30+ teams for building an innovative event platform  
+- 🥉 **3rd Place** – 8-Hour Rapid Hackathon with 150+ participants, delivering a functional prototype under pressure  
+- 🌟 Built the **SWAYAM** cultural fest website as part of a dedicated development team, enhancing event visibility and user engagement
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroop-kg&show_icons=true&locale=en" alt="swaroop-kg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-kg&" alt="swaroop-kg" /></p>
+
+
