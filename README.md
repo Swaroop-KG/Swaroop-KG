@@ -8,6 +8,10 @@
 - 🌱 I’m currently learning **MERNSTACK**
 
 - 📫 How to reach me **swaroopkg56@gmail.com**
+
+- Solved 100+ leetcode problems
+  
+
 - ## 💼 Experience
 
 **Full Stack Developer Intern** – *Elfinity Technologies* (Feb 2025 – Present)  
