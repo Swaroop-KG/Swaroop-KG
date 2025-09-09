@@ -14,7 +14,7 @@
 
 - ## 💼 Experience
 
-**Full Stack Developer Intern** – *Elfinity Technologies* (Feb 2025 – Present)  
+**Full Stack Developer Intern** – *Elfinity Technologies* (Feb 2025 – June 2025)  
 - Working as a web development intern, building projects with modern frameworks and technologies. 
 - Developing responsive and user-friendly interfaces to enhance user experience and accessibility. 
 - Collaborating with designers and backend developers to implement seamless UI/UX features. 
