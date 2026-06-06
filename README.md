@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Swaroop.K.G</h1>
-<h3 align="center">A passionate fullstack developer and AI enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Swaroop K G</h1>
+<h3 align="center">Product Engineer at GoStudio.ai | Full Stack Developer | AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-kg&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-kg" /> </p>
+<p align="center">
+Building AI-powered products, scalable web applications, and delightful user experiences.
+</p>
 
 - 🔭 I’m currently working on **FULL STACK PROJECTS and MERN STACK**
 
