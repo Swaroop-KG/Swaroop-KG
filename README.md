@@ -15,7 +15,7 @@ Building AI-powered products, scalable web applications, and impactful user expe
 - 💻 Building **AI-powered products and full-stack web applications**
 - 🌱 Continuously learning **System Design, AI Integration, and Scalable Architectures**
 - 👨‍💻 Passionate about solving real-world problems through technology
-- 🧠 Solved **100+ LeetCode Problems**
+- 🧠 Solved **200+ LeetCode Problems**
 - 🎯 Aspiring to build impactful products used by millions
 - 📫 Reach me at **swaroopkg56@gmail.com**
 
@@ -24,17 +24,17 @@ Building AI-powered products, scalable web applications, and impactful user expe
 ## 💼 Experience
 
 ### Product Engineer – GoStudio.ai
-*June 2025 – Present*
+*Jan 2026 – June 2026*
 
 - Building and shipping AI-powered products from concept to production.
 - Developing scalable full-stack applications using modern web technologies.
 - Collaborating closely with product, design, and engineering teams.
 - Designing and implementing user-centric features with a focus on performance and usability.
 - Working on AI integrations, product workflows, and automation systems.
-- Technologies: React, Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS, REST APIs, AI Tools.
+- Technologies: React, Next.js, TypeScript,Supabase ,SEO ,GEO, Tailwind CSS, REST APIs, AI Tools.
 
 ### Full Stack Developer Intern – Elfinity Technologies
-*Feb 2025 – June 2025*
+*Feb 2025 – Aug 2025*
 
 - Built responsive and user-friendly web applications using modern frameworks.
 - Developed reusable frontend components and integrated backend APIs.
