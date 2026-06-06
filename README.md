@@ -23,7 +23,7 @@ Building AI-powered products, scalable web applications, and impactful user expe
 
 ## 💼 Experience
 
-### Product Engineer – GoStudio.ai
+### Product Engineer Intern – GoStudio.ai
 *Jan 2026 – June 2026*
 
 - Building and shipping AI-powered products from concept to production.
