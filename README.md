@@ -1,54 +1,140 @@
 <h1 align="center">Hi 👋, I'm Swaroop K G</h1>
-<h3 align="center">Product Engineer at GoStudio.ai | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Product Engineer @ GoStudio.ai | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-Building AI-powered products, scalable web applications, and delightful user experiences.
+Building AI-powered products, scalable web applications, and impactful user experiences.
 </p>
 
-- 🔭 I’m currently working on **FULL STACK PROJECTS and MERN STACK**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=swaroop-kg&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-kg" />
+</p>
 
-- 🌱 I’m currently learning **MERNSTACK**
+## 🚀 About Me
 
-- 📫 How to reach me **swaroopkg56@gmail.com**
+- 🔭 Currently working as **Product Engineer at GoStudio.ai**
+- 💻 Building **AI-powered products and full-stack web applications**
+- 🌱 Continuously learning **System Design, AI Integration, and Scalable Architectures**
+- 👨‍💻 Passionate about solving real-world problems through technology
+- 🧠 Solved **100+ LeetCode Problems**
+- 🎯 Aspiring to build impactful products used by millions
+- 📫 Reach me at **swaroopkg56@gmail.com**
 
-- Solved 100+ leetcode problems
-  
+---
 
-- ## 💼 Experience
+## 💼 Experience
 
-**Full Stack Developer Intern** – *Elfinity Technologies* (Feb 2025 – June 2025)  
-- Working as a web development intern, building projects with modern frameworks and technologies. 
-- Developing responsive and user-friendly interfaces to enhance user experience and accessibility. 
-- Collaborating with designers and backend developers to implement seamless UI/UX features. 
+### Product Engineer – GoStudio.ai
+*June 2025 – Present*
+
+- Building and shipping AI-powered products from concept to production.
+- Developing scalable full-stack applications using modern web technologies.
+- Collaborating closely with product, design, and engineering teams.
+- Designing and implementing user-centric features with a focus on performance and usability.
+- Working on AI integrations, product workflows, and automation systems.
+- Technologies: React, Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS, REST APIs, AI Tools.
+
+### Full Stack Developer Intern – Elfinity Technologies
+*Feb 2025 – June 2025*
+
+- Built responsive and user-friendly web applications using modern frameworks.
+- Developed reusable frontend components and integrated backend APIs.
+- Collaborated with designers and developers to enhance user experience.
 - Technologies: HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS, REST APIs.
 
-**Tech Team Member** – *Software Development Club* (Sep 2024 – Jun 2025)  
-- Collaborated with peers to develop dynamic websites for various college events  
-- Guided and supported 300+ students through 3+ technical workshops and mentoring sessions
+### Tech Team Member – Software Development Club
+*Sep 2024 – Jun 2025*
+
+- Collaborated with peers to develop dynamic websites for college events.
+- Guided and mentored 300+ students through technical workshops and coding sessions.
+- Contributed to event management platforms and web development initiatives.
 
 ---
 
-## 🏆 Achievements & Hackathons
+## 🏆 Achievements
 
-  🥇 **1st Place** – Web Development Hackathon among 30+ teams for building an innovative event platform  
-- 🥉 **3rd Place** – 8-Hour Rapid Hackathon with 150+ participants, delivering a functional prototype under pressure  
-- 🌟 Built the **SWAYAM** cultural fest website as part of a dedicated development team, enhancing event visibility and user engagement
+🥇 **1st Place** – Web Development Hackathon among 30+ teams for building an innovative event platform
+
+🥉 **3rd Place** – 8-Hour Rapid Hackathon with 150+ participants, delivering a functional prototype under pressure
+
+🌟 **SWAYAM Fest Website Developer** – Built and contributed to the official cultural fest website, improving event visibility and engagement
+
+💯 Solved **100+ LeetCode Problems** focusing on Data Structures and Algorithms
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swaroop-k-g-82975025b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swaroop-k-g-82975025b/" height="30" width="40" /></a>
-<a href="https://instagram.com/swa_roop_k.ghttps://www.instagram.com/swa_roop_k.g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swa_roop_k.ghttps://www.instagram.com/swa_roop_k.g/" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- TypeScript
+- Python
+- C
+- C++
+
+### Frontend
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MongoDB
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Firebase
+- Vercel
+- Postman
+
+### Areas of Interest
+- Full Stack Development
+- Product Engineering
+- Artificial Intelligence
+- System Design
+- Cloud Technologies
+- Scalable Web Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaroop-kg&show_icons=true&locale=en&layout=compact" alt="swaroop-kg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroop-kg&show_icons=true&locale=en" alt="swaroop-kg" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaroop-kg&show_icons=true&locale=en&layout=compact" alt="swaroop-kg" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-kg" alt="swaroop-kg" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroop-kg&show_icons=true&locale=en" alt="swaroop-kg" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-kg&" alt="swaroop-kg" /></p>
+## 🤝 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/swaroop-k-g-82975025b/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
+<a href="https://www.instagram.com/swa_roop_k.g/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 💡 Motto
+
+> Building products that solve real problems through technology, creativity, and continuous learning.
