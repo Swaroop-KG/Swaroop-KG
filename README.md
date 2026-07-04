@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaroop K G</h1>
-<h3 align="center">Product Engineer @ GoStudio.ai | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer @ GoStudio.ai | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
 Building AI-powered products, scalable web applications, and impactful user experiences.
@@ -11,13 +11,13 @@ Building AI-powered products, scalable web applications, and impactful user expe
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Product Engineer at GoStudio.ai**
+- 🔭 Currently working as **Full Stack Developer at GoStudio.ai**
 - 💻 Building **AI-powered products and full-stack web applications**
 - 🌱 Continuously learning **System Design, AI Integration, and Scalable Architectures**
 - 👨‍💻 Passionate about solving real-world problems through technology
 - 🧠 Solved **200+ LeetCode Problems**
 - 🎯 Aspiring to build impactful products used by millions
-- 📫 Reach me at **swaroopkg56@gmail.com**
+- 📫 Reach me at **swaroop.k.g49@gmail.com**
 
 ---
 
