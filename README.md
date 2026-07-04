@@ -24,8 +24,8 @@ Building AI-powered products, scalable web applications, and impactful user expe
 ## 💼 Experience
 
 ### GoStudio.ai  
-**Full Stack Developer Intern** | *Jan 2026 – Jun 2026*  
 **Full Stack Developer** | *Jul 2026 – Present*
+**Full Stack Developer Intern** | *Jan 2026 – Jun 2026*  
 
 - Building and shipping AI-powered products from concept to production.
 - Developing scalable full-stack applications using modern web technologies.
@@ -34,8 +34,8 @@ Building AI-powered products, scalable web applications, and impactful user expe
 - Working on AI integrations, product workflows, and automation systems.
 - Technologies: React, Next.js, TypeScript,Supabase ,SEO ,GEO, Tailwind CSS, REST APIs, AI Tools.
 
-### Full Stack Developer Intern – Elfinity Technologies
-*Feb 2025 – Aug 2025*
+### Elfinity Technologies
+**Full Stack Developer Intern** | *Feb 2025 – Aug 2025*
 
 - Built responsive and user-friendly web applications using modern frameworks.
 - Developed reusable frontend components and integrated backend APIs.
