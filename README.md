@@ -23,8 +23,9 @@ Building AI-powered products, scalable web applications, and impactful user expe
 
 ## 💼 Experience
 
-### Product Engineer Intern – GoStudio.ai
-*Jan 2026 – June 2026*
+### GoStudio.ai  
+**Full Stack Developer Intern** | *Jan 2026 – Jun 2026*  
+**Full Stack Developer** | *Jul 2026 – Present*
 
 - Building and shipping AI-powered products from concept to production.
 - Developing scalable full-stack applications using modern web technologies.
